@@ -1,2 +1,1 @@
-# prettier-config
-My `prettier` config
+# `prettier` configuration
